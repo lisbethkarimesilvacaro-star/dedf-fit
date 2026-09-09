@@ -1,3 +1,3 @@
 git add .
-git commit -m "Estructura android limpia v2 embedding"
+git commit -m "Estructura android correcta"
 git push origin main
